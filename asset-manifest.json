@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gestao-qualidade-projetos/static/css/main.2b28f275.css",
+    "main.js": "/gestao-qualidade-projetos/static/js/main.183d1bec.js",
+    "static/js/453.fde6b403.chunk.js": "/gestao-qualidade-projetos/static/js/453.fde6b403.chunk.js",
+    "index.html": "/gestao-qualidade-projetos/index.html",
+    "main.2b28f275.css.map": "/gestao-qualidade-projetos/static/css/main.2b28f275.css.map",
+    "main.183d1bec.js.map": "/gestao-qualidade-projetos/static/js/main.183d1bec.js.map",
+    "453.fde6b403.chunk.js.map": "/gestao-qualidade-projetos/static/js/453.fde6b403.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b28f275.css",
+    "static/js/main.183d1bec.js"
+  ]
+}
